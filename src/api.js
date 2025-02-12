@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyANrD-Do0RKKR0V2E3nnqSDVRKvEm9TnKA";
+const API_KEY = "";
 
 export const formatNote = async (text) => {
   try {
